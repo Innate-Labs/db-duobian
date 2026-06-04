@@ -45,6 +45,18 @@
 
 DB 不只是产品目录，它更像一条街道——**每一扇门，都通往一个正在被 AI 重塑的行业现场**。
 
+
+
+<br/>
+
+## 🎬 产品截图
+
+<div align="center">
+  <img src="./screenshots/home.png" alt="多边 首页" width="100%" />
+  <br/>
+  <sub><b>沉浸式视觉叙事的 AI 产品矩阵入口</b></sub>
+</div>
+
 <br/>
 
 ## 🪐 立即体验
